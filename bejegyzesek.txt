@@ -1,0 +1,3 @@
+1;2021.11.11.;22:33;Budapest;Sajtszedes;A sajt finom
+2;2021.12.12.;10:33;Budapest;Pihi;Netflix and chill
+3;2021.11.11.;22:33;Budapest;Szeretem a sajtot;sajt
